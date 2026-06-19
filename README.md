@@ -1,0 +1,1 @@
+This repository is to test how to use GitHub
